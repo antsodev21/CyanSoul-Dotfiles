@@ -1,4 +1,4 @@
-# CyanSoul-Dotfiles ![soul](https://gitlab.com/antsodev21/cyansoul-dotfiles/-/raw/main/Qtile/qtile/wallpapers-y-iconos/start.png){width=2%}
+# CyanSoul-Dotfiles ![soul](https://github.com/antsodev21/cyansoul-dotfiles/-/raw/main/Qtile/qtile/wallpapers-y-iconos/start.png){width=2%}
 
 La instalacion de estos dotfiles se hace de la siguiente manera
 1. Eligen el escritorio al que le van a aplicar los dotfiles y descargue la carpeta
