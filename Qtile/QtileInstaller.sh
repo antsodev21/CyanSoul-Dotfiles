@@ -43,8 +43,6 @@ sudo rm -rf ~/.config/rofi
 cp -r rofi/ ~/.config
 sudo chmod +x ~/.config/qtile/autostart.sh
 cp .conkyrc ~/
-rm ~/.bashrc
-cp .bashrc ~/
 echo "Listo!!"
 
 echo "Instalando Fuentes"
